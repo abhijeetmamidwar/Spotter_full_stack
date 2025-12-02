@@ -1,0 +1,8 @@
+Django>=5.0
+djangorestframework
+django-cors-headers
+requests
+python-dotenv
+polyline
+gunicorn
+whitenoise
