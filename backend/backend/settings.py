@@ -61,6 +61,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
+    'https://spotter-full-stack-git-main-abhijeets-projects-d2f4c120.vercel.app',
     "http://localhost:5173",
 ]
 
