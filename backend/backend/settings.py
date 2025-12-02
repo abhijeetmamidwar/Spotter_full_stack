@@ -63,6 +63,8 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
+    "https://spotter-full-stack.vercel.app",  # PRODUCTION frontend
+    "https://spotter-full-stack-99y9.vercel.app",  # backend domain
     r"^https:\/\/.*\.vercel\.app$", # All vercel endpoints
     'https://spotter-full-stack-git-main-abhijeets-projects-d2f4c120.vercel.app',
     "http://localhost:5173",
